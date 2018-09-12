@@ -1,4 +1,4 @@
-BIN_DIR   = ~/bin
+BIN_DIR   = /usr/local/bin
 LOADER    = git-anonymize
 
 .PHONY: help
